@@ -10,6 +10,7 @@ source 'utils.sh'
 p_info '-------------------------------------------------------------------'
 p_info 'Rodando testes'
 p_info '-------------------------------------------------------------------'
+cd src
 python main2.py dados.txt A Y
 python main2.py dados.txt G Y
 python main2.py dados.txt D U
