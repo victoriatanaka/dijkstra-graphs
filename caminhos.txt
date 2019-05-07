@@ -1,0 +1,24 @@
+Caminho de menor tempo (47.0) de A até Y é: ['AR', 'BR', 'CR', 'FR', 'IR', 'ZR', 'YR']
+Caminho de menor custo (2950) de A até Y é: ['AR', 'BR', 'CR', 'DR', 'DT', 'JT', 'NT', 'VT', 'VR', 'XR', 'ZR', 'YR']
+
+Caminho de menor tempo (47.0) de G até Y é: ['GR', 'JR', 'FR', 'IR', 'ZR', 'YR']
+Caminho de menor custo (2250) de G até Y é: ['GT', 'JT', 'NT', 'VT', 'VR', 'XR', 'ZR', 'YR']
+
+Caminho de menor tempo (27.6) de D até U é: ['DR', 'JR', 'NR', 'VR', 'UR']
+Caminho de menor custo (1150) de D até U é: ['DT', 'JT', 'NT', 'VT', 'VR', 'UR']
+
+Caminho de menor tempo (18.5) de Q até J é: ['QR', 'PR', 'JR']
+Caminho de menor custo (950) de Q até J é: ['QR', 'PR', 'PT', 'NT', 'JT', 'JR']
+
+Caminho de menor tempo (18.2) de V até K é: ['VR', 'UR', 'QR', 'PR', 'OR', 'KR']
+Caminho de menor custo (1050) de V até K é: ['VT', 'NT', 'PT', 'PR', 'OR', 'KR']
+
+Caminho de menor tempo (32.3) de L até H é: ['LR', 'MR', 'NR', 'JR', 'GR', 'HR']
+Caminho de menor custo (1650) de L até H é: ['LR', 'MR', 'MT', 'NT', 'JT', 'GT', 'GR', 'HR']
+
+Caminho de menor tempo (31.8) de T até W é: ['TR', 'UR', 'VR', 'XR', 'ZR', 'WR']
+Caminho de menor custo (1200) de T até W é: ['TR', 'UR', 'VR', 'XR', 'ZR', 'WR']
+
+Caminho de menor tempo (23.0) de X até K é: ['XR', 'VR', 'UR', 'QR', 'PR', 'OR', 'KR']
+Caminho de menor custo (1350) de X até K é: ['XR', 'VR', 'VT', 'NT', 'PT', 'PR', 'OR', 'KR']
+
